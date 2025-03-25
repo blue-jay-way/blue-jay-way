@@ -1,4 +1,5 @@
-## Hi there 👋
+![1000122390](https://github.com/user-attachments/assets/5d2afa27-e1ce-4547-a8a4-bc7f5f19cece)
+
 
 <!--
 **blue-jay-way/blue-jay-way** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
